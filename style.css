@@ -8,7 +8,7 @@
 }
 #-main{
 	font-family: 'Indie Flower', cursive;
-	color:#fca17f;
+	color:#b366e6;
 	width:100%;
 	height:100%;
 	position:relative;
@@ -196,7 +196,7 @@ p{
 	color:#b366e6;
 	background:white;
 	border-radius:4px;
-	box-shadow:2px 2px #fca17f;
+	box-shadow:2px 2px #b366e6;
 	margin-left:165px
 }
 #page-video:target{
